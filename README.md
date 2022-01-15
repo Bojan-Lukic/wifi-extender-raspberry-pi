@@ -24,7 +24,7 @@
 <div align="center">
   <figure>
     <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi">
-      <img src="res/logo.png" alt="Logo" width="120" height="120">
+      <img src="res/logo.png" alt="Logo" width="150" height="150">
     </a><br />
     <figcaption><sub>Icon made by <a href="https://www.flaticon.com/authors/freepik">Edi Prast</a> from www.flaticon.com.</sub></figcaption>
   </figure>
@@ -34,10 +34,10 @@
   <p align="center">
     Extending the range of WiFi signals using a Raspberry Pi and a repeater antenna.
     <br />
-    <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi/src">View Demo</a>
+    <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi/tree/main/src">View Demo</a>
     ·
     <a href="https://github.com/Bojan-Lukic/wifi-extender-raspberry-pi/issues">Report Bug</a>
     ·
