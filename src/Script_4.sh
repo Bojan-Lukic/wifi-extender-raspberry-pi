@@ -1,1 +1,0 @@
-sudo nano /etc/init.d/hostapd
