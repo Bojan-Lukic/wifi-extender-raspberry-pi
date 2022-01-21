@@ -1,0 +1,4 @@
+https://raspberrypi.stackexchange.com/questions/93233/access-point-as-a-wifi-repeater-for-wpa2-enterprise-network
+https://raspberrypi.stackexchange.com/questions/89803/access-point-as-wifi-router-repeater-optional-with-bridge
+https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=151010
+https://www.myopenrouter.com/forum/8021x-set-dd-wrt
